@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pramod556
-- 👀 I’m interested in Software devoloper
+- 👀 I’m interested in Software devolopment
 - 🌱 I’m currently learning Data structures and Algorithms
 - 💞️ I’m looking to collaborate on Open Source projects
 - 📫 How to reach me mail pramodhswargam@gmail.com

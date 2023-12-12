@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pramod556
-- 👀 I’m interested in Software devolopment
-- 🌱 I’m currently learning Data structures and Algorithms
+- 👀 I’m interested in Software devolopment, web development
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Open Source projects
 - 📫 How to reach me mail pramodhswargam@gmail.com
 
